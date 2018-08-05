@@ -1,3 +1,3 @@
 # hello-world
 Practice
-creating a branch and tring commits on this.
+creating a branch and trying commits on this.
